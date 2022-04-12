@@ -94,4 +94,11 @@ figcaption {
     padding: 5px 10px;
 }
 
+/**	
+	* Make the annotated image container relative so it can control absolute objects
+	*/
+	
+	.annotate {
+	position: relative;
+	}
 
