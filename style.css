@@ -191,7 +191,7 @@ figcaption {
 }
 
 #moxie:not(.active) {
-    bottom: 43%;
+    bottom: 50%;
     right: 24%;
 }
 
@@ -201,13 +201,13 @@ figcaption {
 }
 
 #wheels:not(.active) {
-    bottom: 27%;
+    top: 70%;
     right: 24%;
 }
 
 #battery:not(.active) {
     top: 40%;
-    right: 12%;
+    right: 24%;
 }
 
 
